@@ -1,2 +1,2 @@
-# Juice
-Juice Token
+# Juice Token.
+A low-commission cryptocurrency, an alternative to Bitcoin in the TON blockchain, used by designers of any direction to pay for design services, pictures, photos, videos, audio and other media materials, and any other type of design. The first project using the Juice token is the Telegram channel on video design @aeJuice, which uses TON Torrent, TON Storage and TON Provider technology. The total number of tokens is 21 million.
